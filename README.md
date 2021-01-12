@@ -4,9 +4,13 @@ Gesture esimation /w binary network interaction. Pose Estimation is done via htt
 Early stage Development:
 
 Python3 
+
 tf-gpu 1.13.0
+
 opencv3
+
 slim
+
 slidingwindows
 
 ToDo:
