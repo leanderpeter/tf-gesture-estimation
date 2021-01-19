@@ -6,9 +6,13 @@ Early stage Development.
 Installation dependencies:
 
 Python3 
+
 tf-gpu 1.13.0rc2
+
 opencv3
+
 slim
+
 slidingwindows
 
 post-processing for Part-Affinity Fields Map implemented in C++ & Swig
@@ -23,4 +27,5 @@ $ python setup.py build_ext --inplace
 ToDo:
 
 Update to tf-gpu 2.1.0
+
 Reevaluate Dataset (Stop Gesture)
