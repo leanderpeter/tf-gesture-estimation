@@ -22,6 +22,17 @@ $ swig -python -c++ pafprocess.i
 $ python setup.py build_ext --inplace
 ```
 
+# Usage:
+
+```
+$ python run_image.py --image=/tf-gesture-estimation/2.jpeg
+```
+
+# Retrain:
+
+```
+$ python scripts/retrain.py --model_dir=tf_files/retrained_graph.pb --output_label=tf_files/retrained_labels.txt --image_dir=Custom_Gesture_Dataset --output_graph=tf_files/output_graph.pb
+```
 
 
 ToDo:
