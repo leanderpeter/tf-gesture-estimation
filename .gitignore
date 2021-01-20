@@ -1,1 +1,13 @@
+#My dataset
 Custom_Gesture_Dataset/
+
+#Python byte code
+scripts/__pycache__/
+
+#Pafprocess
+tf_pose/pafprocess/__pycache__/
+
+#Slim
+tf_pose/slim/__pycache__/
+tf_pose/slim/nets/__pycache__/
+tf_pose/tensblur/__pycache__/
