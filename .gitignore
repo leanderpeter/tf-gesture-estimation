@@ -11,3 +11,6 @@ tf_pose/pafprocess/__pycache__/
 tf_pose/slim/__pycache__/
 tf_pose/slim/nets/__pycache__/
 tf_pose/tensblur/__pycache__/
+
+# Test
+.fussball
